@@ -1,0 +1,11 @@
+
+
+{
+"container" : {
+
+"backgroundColor" : "black",
+"color": "gray",
+"fontSize": "24px",
+"textAlign": "center"
+
+}}
