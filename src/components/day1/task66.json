@@ -8,4 +8,16 @@
 "fontSize": "24px",
 "textAlign": "center"
 
-}}
+},
+
+"title" : {
+
+    "color": "gray",
+"fontSize": "24px",
+"textAlign": "center"
+
+}
+
+
+
+}

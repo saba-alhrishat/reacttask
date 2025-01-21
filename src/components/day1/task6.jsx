@@ -4,7 +4,10 @@ import Task66 from "./task66.json"
 function Task6 () {
 return (
 <div>
-<h2 style={Task66.container}>  Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat amet ad eos itaque sint, esse qui exercitationem alias minima perferendis quos sapiente dolor nisi! Quia explicabo odit consequuntur facilis laborum.</h2>
+<h2 style={Task66.container}> lor nisi! Quia explicabo odit consequuntur facilis laborum.</h2>
+
+<h6 style={Task66.title}>  optio officiis, vitae quisquam voluptatem cupiditate perferendis? Tenetur voluptates rem doloribus corporis at ducimus.</h6>
+
 </div>
 )
 }
