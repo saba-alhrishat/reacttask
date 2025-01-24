@@ -2,7 +2,7 @@ import React,{useState} from "react";
 
  function Task8(){
 
- const[x, y] = useState(0);
+ const[x , y] = useState(0);
 const  increment= ()=> y(x+1)
  const  descrement=()=> y(x-1)
  return( 
