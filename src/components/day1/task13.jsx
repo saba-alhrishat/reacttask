@@ -1,11 +1,14 @@
 import React from "react";
+import image from 
+
+
 
 const cards = [
     {
       id: 1,
       title: "Card 1",
       description: "This is the first card",
-    //   image: "https://media.discordapp.net/attachments/1314516379524923446/1314516749189775470/1708250582111.jpg?ex=6790b39f&is=678f621f&hm=176164641f9f03bca7c2ea11a37a6a94d61812621474f9ef7453e7a05956f757&=&format=webp&width=582&height=582",
+      image: "https://media.discordapp.net/attachments/1314516379524923446/1314516749189775470/1708250582111.jpg?ex=6790b39f&is=678f621f&hm=176164641f9f03bca7c2ea11a37a6a94d61812621474f9ef7453e7a05956f757&=&format=webp&width=582&height=582",
     },
     {
       id: 2,
